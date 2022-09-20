@@ -63,5 +63,4 @@ final locationList = [
       wind: 20,
       rain: 70,
       humidity: 91),
-
 ];
